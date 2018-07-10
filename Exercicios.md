@@ -26,7 +26,24 @@
 - [Uri 2354]
 - [Uri 2729]
 
+### Dia 2 - Paradigmas de resolução de problemas
 
+- [Uri 1025]
+- [Uri 1029]
+- [Uri 1153]
+- [Uri 1288]
+- [Uri 1401]
+- [UVA 441]
+- [HackerRank Recursive Digit Sum]
+
+
+   [Uri 1025]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1025>
+   [Uri 1029]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1029>
+   [Uri 1153]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1153>
+   [Uri 1288]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1288>
+   [Uri 1401]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1401>
+   [UVA 441]: <https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=382>
+   [HackerRank Recursive Digit Sum]: <https://www.hackerrank.com/challenges/recursive-digit-sum/problem>
    [Uri 1012]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1012>
    [Uri 1026]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1026>
    [Uri 1028]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1028>
