@@ -17,6 +17,7 @@
 
 - [Geeks for Geeks Channel]
 - [Maratona IME]
+- [DigiiMento Education]
 
 ### Repositórios
 - [Awesome Competitive Programming]
@@ -29,3 +30,4 @@
    [Awesome Competitive Programming]: <https://github.com/lnishan/awesome-competitive-programming>
    [Geeks for Geeks Channel]: <https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ>
    [Maratona IME]: <https://www.youtube.com/playlist?list=PL9sdTenuXlxmIsiKgJRYtUm_A0Cnh-vPB>
+   [DigiiMento Education]: <https://www.youtube.com/channel/UC-x_kRNcI1102UR5SmXOrpg>
