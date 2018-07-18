@@ -36,6 +36,23 @@
 - [UVA 441]
 - [HackerRank Recursive Digit Sum]
 
+### Dia 3 - Processamento de strings
+- [Uri 1168]
+- [Uri 1273]
+- [Uri 1332]
+- [Uri 1768]
+- [Uri 2242]
+- [Uri 2253]
+- [Uri 2587]
+- [Uri 2651]
+
+### Dia 4 - Introdução à grafos
+- [Uri 1148]
+- [Uri 1610]
+- [Uri 1790]
+- [Uri 1855]
+- [Uri 1931]
+- [Uri 2562]
 
    [Uri 1025]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1025>
    [Uri 1029]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1029>
@@ -64,6 +81,22 @@
    [Uri 2312]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2312>
    [Uri 2354]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2354>
    [Uri 2729]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2729>
+   [Uri 1168]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1168>
+   [Uri 1273]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1273>
+   [Uri 1332]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1332>
+   [Uri 1768]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1768>
+   [Uri 2242]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2242>
+   [Uri 2253]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2253>
+   [Uri 2587]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2587>
+   [Uri 2651]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2651>
+   [Uri 1148]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1148>
+   [Uri 1610]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1610>
+   [Uri 1790]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1790>
+   [Uri 1855]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1855>
+   [Uri 1931]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1931>
+   [Uri 2562]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2562>
+   
+   
    
    
 
