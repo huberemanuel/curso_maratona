@@ -5,15 +5,16 @@ using namespace std;
 bool bfs(vector<int> matriz[], int de, int para, int n_nos)
 {
 	queue<int> fila;
-	vector<int> visitados;
+	vector<int> visitados(n_nos, false);
 
 	fila.push(de);
-	visitados.push_back(de);
 
 	while (!fila.empty())
 	{
 		int atual = fila.front();
 		fila.pop();
+		if (visitados[atual]) continue;
+		visitados[atual] = true;
 
 		// Encontrei, hora de parar a busca!
 		if (atual == para)
@@ -24,7 +25,7 @@ bool bfs(vector<int> matriz[], int de, int para, int n_nos)
 
 		for (int i = 0; i < n_nos; ++i)
 		{
-			if (matriz[atual][i] == 1 && find(visitados.begin(), visitados.end(), i) == visitados.end())
+			if (matriz[atual][i] == 1)
 			{
 				visitados.push_back(i);
 				fila.push(i);
