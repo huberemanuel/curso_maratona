@@ -23,7 +23,7 @@
 - [Uri 1763]
 - [Uri 2065]
 - [Uri 2312]
-- [Uri 2354]
+- [Uri 2534]
 - [Uri 2729]
 
 ### Dia 2 - Paradigmas de resolução de problemas
@@ -79,7 +79,7 @@
    [Uri 1763]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1763>
    [Uri 2065]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2065>
    [Uri 2312]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2312>
-   [Uri 2354]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2354>
+   [Uri 2534]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2354>
    [Uri 2729]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2729>
    [Uri 1168]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1168>
    [Uri 1273]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1273>
