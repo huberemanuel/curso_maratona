@@ -18,6 +18,7 @@
 - [Geeks for Geeks Channel]
 - [Maratona IME]
 - [BCCIMEUSP]
+- [INF-UFRGS]
 - [DigiiMento Education]
 
 ### Repositórios
@@ -37,3 +38,4 @@
    [DigiiMento Education]: <https://www.youtube.com/channel/UC-x_kRNcI1102UR5SmXOrpg>
    [Macacário ITA]: <https://www.overleaf.com/read/vrjcfkshkdfd>
    [BCCIMEUSP]: <https://www.youtube.com/watch?v=Ti780_7y6T4>
+   [INF-UFRGS]: <https://www.youtube.com/channel/UCVLn5cGZuDm8FPXz3ZHvhmw>
