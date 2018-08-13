@@ -54,6 +54,22 @@
 - [Uri 1931]
 - [Uri 2562]
 
+### Dia 6 - Matemática e Geometria
+- [Uri 1028]
+- [Uri 1039]
+- [Uri 1093]
+- [Uri 1161]
+- [Uri 1169]
+- [Uri 1197]
+- [Uri 1240]
+- [Uri 1279]
+- [Uri 1308]
+- [Uri 1436]
+- [Uri 1630]
+- [Uri 2232]
+- [Uri 2660]
+- [Uri 2661]
+
    [Uri 1025]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1025>
    [Uri 1029]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1029>
    [Uri 1153]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1153>
@@ -95,6 +111,20 @@
    [Uri 1855]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1855>
    [Uri 1931]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1931>
    [Uri 2562]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2562>
+   [Uri 1028]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1028>
+   [Uri 1039]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1039>
+   [Uri 1093]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1093>
+   [Uri 1161]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1161>
+   [Uri 1169]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1169>
+   [Uri 1197]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1197>
+   [Uri 1240]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1240>
+   [Uri 1279]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1279>
+   [Uri 1308]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1308>
+   [Uri 1436]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1436>
+   [Uri 1630]: <https://www.urionlinejudge.com.br/judge/en/problems/view/1630>
+   [Uri 2232]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2232>
+   [Uri 2660]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2660>
+   [Uri 2661]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2661>
    
    
    
